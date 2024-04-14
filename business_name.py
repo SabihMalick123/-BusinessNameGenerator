@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 import google.generativeai as genai
 
 # Configure Gemini with API key
